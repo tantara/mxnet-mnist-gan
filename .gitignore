@@ -1,0 +1,7 @@
+mxgan/*.ipynb
+mxgan/.ipynb_checkpoints
+data/mnist.zip
+data/*-ubyte
+*.swo
+*.swp
+__pycache__
